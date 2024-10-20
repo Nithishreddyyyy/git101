@@ -9,6 +9,5 @@ print("Working well")
 
 print("This is a new branch")
 
-ahaghiuaerg jka
-aviuhearg
-asihgarg
+#new code
+print("This is a test in vscode")
