@@ -1,1 +1,1 @@
-print("I eat banana")
+print("I eait 🍌")
